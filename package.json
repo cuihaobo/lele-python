@@ -1,0 +1,23 @@
+{
+  "name": "lele-python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec python3 index.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le316Davis/lele-python.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/le316Davis/lele-python/issues"
+  },
+  "homepage": "https://github.com/le316Davis/lele-python#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
